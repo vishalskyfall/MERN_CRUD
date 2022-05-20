@@ -13,15 +13,15 @@ Please check out below screenshots for better understanding.
 ## Screenshots
 
 - Home
-![Home](CRUD_Spring_React/images/home.png)
+![Home](CRUD_MERN/images/home.png)
 - Add New User Page
-![Add New User Page](CRUD_Spring_React/images/addnew.png)
+![Add New User Page](CRUD_MERN/images/addnew.png)
 - View User Page
-![View User Page](CRUD_Spring_React/images/view.png)
+![View User Page](CRUD_MERN/images/view.png)
 - Edit User Page
-![Edit User Page](CRUD_Spring_React/images/edit.png)
+![Edit User Page](CRUD_MERN/images/edit.png)
 - Delete User Page
-![Delete User Page](CRUD_Spring_React/images/delete.png)
+![Delete User Page](CRUD_MERN/images/delete.png)
 
 
 
